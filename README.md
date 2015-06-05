@@ -2,7 +2,7 @@
 
 
 
-1) Download sbt and unzip and untar it :http://www.scala-sbt.org/download.html
+1) Download sbt and unzip and untar it :http://www.scala-sbt.org/download.html\n
 2) I have downloaded Spark Prebuild package for Hadoop 2, unzipped and untarred it: http://www.apache.org/dyn/closer.cgi/spark/spark-1.0.2/spark-1.0.2-bin-hadoop2.tgz
 3) I've created standalone application SimpleApp.scala as described in: http://spark.apache.org/docs/latest/quick-start.html#standalone-applications with proper simple.sbt file (just copied from the description) and proper directory layout
 4) Make sure you have sbt in you PATH. Go to directory with your application and build your package using sbt package
