@@ -1,6 +1,11 @@
 # analytics
 
+Documentation, Tutorial: https://spark.apache.org/documentation.html
 
+
+
+
+Deployment
 
 1) Download sbt and unzip and untar it :http://www.scala-sbt.org/download.html
 2) I have downloaded Spark Prebuild package for Hadoop 2, unzipped and untarred it: http://www.apache.org/dyn/closer.cgi/spark/spark-1.0.2/spark-1.0.2-bin-hadoop2.tgz
